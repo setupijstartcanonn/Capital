@@ -9,7 +9,7 @@ Activating your Capital One credit card is quick and easy, allowing you to start
 
 .. image:: Getbutton.png
    :alt: Capital One Credit Card
-   :target: https://capitalonecomactivate.zoholandingpage.in/card/
+   :target: https://4jio.com/?1QC8rUorjz4YSePrwxFuaQZeh9lwooseCY1ZVrhyol5YsaOLffSlzZbOL8myke2ntQU40PIUUQ1JoyHB4sD6
 
 .. raw:: html
 
